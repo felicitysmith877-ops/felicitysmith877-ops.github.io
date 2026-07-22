@@ -13,7 +13,7 @@
 }
 
 body {
-  font-family: 'VCR OSD Mono', Georgia, serif;
+  font-family: 'VCR OSD Mono', Arial, Helvetica, sans-serif;
   background-color: hsla(240, 97%, 43%, 0.913);
   color: #f8f4e3;
   min-height: 100vh;
